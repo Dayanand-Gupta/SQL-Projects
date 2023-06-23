@@ -1,0 +1,5 @@
+In this projct we have two tables. First table is product table having columns Code, Name, Price and Manufacturer. Second table is Manufactures table having columns Code and Name. Code column is common in both the table.
+
+To analyze this data, SQL concepts such as joins, subqueries, group by, and aggregate functions have been utilized. Joins are used to combine data from multiple tables. Subqueries are used to retrieve data from one table based on conditions in another table. Group by is used to group data based on a particular column or set of columns, and aggregate functions are used to perform calculations on these groups.
+
+By using these SQL concepts, the project has been able to derive useful insights from the dataset, which could help in making decisions related to sales strategies, inventory management, and store operations.
